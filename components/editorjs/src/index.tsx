@@ -1,0 +1,1 @@
+export { EditorComponent } from './index.ts'
